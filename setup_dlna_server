@@ -1,0 +1,7 @@
+#!/bin/bash
+
+sudo apt-get install minidlna
+
+sudo mkdir -p /var/lib/minidlna/movies
+sudo mkdir -p /var/lib/minidlna/photos
+sudo mkdir -p /var/lib/minidlna/musics
